@@ -39,12 +39,12 @@ I'm currently relearning and strengthening my Full-Stack Web Development skills 
 
 ## 🚀 Featured Projects
 
-### 🌐 Personal Portfolio
+### 🌐 Personal Portfolio [Brigitte Morta](https://bmorta.github.io/brigitte-morta/)
 My personal portfolio website showcasing my skills, experience, and projects.
 
 **Built with:** HTML · CSS · JavaScript · Bootstrap
 
-### 📦 Inventory Management System
+### 📦 [Inventory Management System](https://bmorta.github.io/inventory-management-system/) 
 A web-based inventory management application currently under development.
 
 **Focus:** Product Management · Categories · Inventory · Reports · Dashboard
