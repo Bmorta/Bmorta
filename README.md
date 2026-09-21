@@ -76,6 +76,7 @@ A web-based inventory management application focused on managing products, categ
 ---
 
 ### ✅ Task Manager Application
+**[View Project](https://bmorta.github.io/task-manager-application/)**
 
 A responsive task management application that allows users to create, manage, complete, and delete tasks.
 
@@ -95,7 +96,7 @@ A responsive task management application that allows users to create, manage, co
 ---
 
 ### 🎓 Student Record Application
-
+**[View Project](https://bmorta.github.io/student-record-application/)**
 A web-based student record application developed as part of my Full-Stack Web Development training.
 
 **Features include:**
