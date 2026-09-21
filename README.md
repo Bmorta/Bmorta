@@ -12,25 +12,81 @@ Currently strengthening my skills in **JavaScript, Node.js, PHP, Laravel, C#, .N
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5">
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3">
+  <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap">
+</p>
+
+<p>
+  <sub><b>HTML5</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>CSS3</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>JavaScript</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Bootstrap</b></sub>
+</p>
 
 ### Backend & Programming
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,php,laravel,cs,dotnet)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js">
+  <img src="https://skillicons.dev/icons?i=php" width="50" alt="PHP">
+  <img src="https://skillicons.dev/icons?i=laravel" width="50" alt="Laravel">
+  <img src="https://skillicons.dev/icons?i=cs" width="50" alt="C#">
+  <img src="https://skillicons.dev/icons?i=dotnet" width="50" alt=".NET">
+</p>
+
+<p>
+  <sub><b>Node.js</b></sub>&nbsp;&nbsp;&nbsp;
+  <sub><b>PHP</b></sub>&nbsp;&nbsp;&nbsp;
+  <sub><b>Laravel</b></sub>&nbsp;&nbsp;&nbsp;
+  <sub><b>C#</b></sub>&nbsp;&nbsp;&nbsp;
+  <sub><b>.NET</b></sub>
+</p>
 
 ### Databases
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)
+<p>
 
-### Tools
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB">
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL">
+</p>
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,wordpress)](https://skillicons.dev)
+<p>
 
-### Design
+  <sub><b>MongoDB</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>MySQL</b></sub>
+</p>
 
-[![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+### Development & Tools
 
-`Canva` · `CapCut` · `Photo & Video Editing`
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git">
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code">
+  <img src="https://skillicons.dev/icons?i=wordpress" width="50" alt="WordPress">
+</p>
+
+<p>
+  <sub><b>Git</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>GitHub</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>VS Code</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>WordPress</b></sub>
+</p>
+
+### Design & Content
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ps" width="50" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="50" alt="Canva">
+  <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" height="50" alt="CapCut">
+</p>
+
+<p>
+  <sub><b>Photoshop</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Canva</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>CapCut</b></sub>
+</p>
 
 ---
 
