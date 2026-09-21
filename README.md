@@ -1,170 +1,110 @@
 # Hi, I'm Brigitte 👋
 
-### Full-Stack Web Developer in Progress 💻
+### 💻 Full-Stack Web Developer in Progress
 
-I'm a **Full-Stack Web Developer in progress**, currently strengthening my development skills through hands-on projects and practical applications.
+I'm a **Full-Stack Web Developer in progress** focused on building practical, responsive, and user-friendly web applications.
 
-I enjoy building **responsive, user-friendly web applications** while continuously improving my knowledge of frontend development, JavaScript, APIs, databases, and backend technologies.
+Currently strengthening my skills in **JavaScript, Node.js, PHP, Laravel, C#, .NET, SQL, and databases** through hands-on projects.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 ### Frontend
 
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
 ### Backend & Programming
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,cs,dotnet)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,php,laravel,cs,dotnet)](https://skillicons.dev)
 
 ### Databases
 
-[![Database Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)
 
-### Development & Tools
+### Tools
 
-[![Development Tools](https://skillicons.dev/icons?i=git,github,vscode,wordpress)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,wordpress)](https://skillicons.dev)
 
-### Design & Content
+### Design
 
 [![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
-[![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)](https://www.capcut.com/)
+
+`Canva` · `CapCut` · `Photo & Video Editing`
+
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🌐 Personal Portfolio
 
-**[Brigitte Morta Portfolio](https://bmorta.github.io/brigitte-morta/)**
-
-My personal portfolio website showcasing my background, skills, projects, and development journey.
+A personal developer portfolio showcasing my skills, projects, and development journey.
 
 **Built with:** HTML · CSS · JavaScript · Bootstrap
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-2ea44f?style=for-the-badge)](https://bmorta.github.io/brigitte-morta/)
+[![Repository](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Bmorta/brigitte-morta)
 
 ---
 
 ### 📦 Inventory Management System
 
-**[View Project](https://bmorta.github.io/inventory-management-system/)**
-
-A web-based inventory management application focused on managing products, categories, inventory information, reports, and dashboard metrics.
-
-**Features include:**
-
-* Product Management
-* Category Management
-* Inventory Tracking
-* Dashboard
-* Reports
-* Responsive Interface
-* User Management
-* Approval Workflow
-* Notifications
-* Local Data Storage
+A web-based inventory management application featuring product and category management, inventory tracking, dashboard metrics, reports, users, approvals, notifications, and local data storage.
 
 **Built with:** HTML · CSS · JavaScript · Bootstrap · JSON · LocalStorage
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-2ea44f?style=for-the-badge)](https://bmorta.github.io/inventory-management-system/)
+[![Repository](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Bmorta/inventory-management-system)
 
 ---
 
 ### ✅ Task Manager Application
 
-**[View Project](https://bmorta.github.io/task-manager-application/)**
-
-A responsive task management application that allows users to create, manage, complete, and delete tasks.
-
-**Features include:**
-
-* Add Tasks
-* Edit Tasks
-* Delete Tasks
-* Complete Tasks
-* Clear Completed Tasks
-* Custom Confirmation Popups
-* Responsive UI
-* Interactive JavaScript Functionality
+A responsive task management application with CRUD functionality, task completion, clearing completed tasks, and custom confirmation popups.
 
 **Built with:** HTML · CSS · JavaScript · JSON · LocalStorage
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-2ea44f?style=for-the-badge)](https://bmorta.github.io/task-manager-application/)
+[![Repository](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Bmorta/task-manager-application)
 
 ---
 
 ### 🎓 Student Record Application
 
-**[View Project](https://bmorta.github.io/student-record-application/)**
-
-A web-based student record application developed as part of my Full-Stack Web Development training.
-
-**Features include:**
-
-* Student Record Management
-* Add and Manage Student Information
-* Interactive User Interface
-* JavaScript-Based Functionality
-* Responsive Design
+A student record application developed as part of my Full-Stack Web Development training.
 
 **Built with:** HTML · CSS · JavaScript · DOM
 
----
-
-## 📚 Currently Learning
-
-I'm continuously developing my skills in:
-
-* JavaScript
-* DOM Manipulation
-* JSON
-* REST APIs
-* Node.js
-* PHP
-* Laravel
-* C#
-* .NET / .NET Core
-* SQL
-* PostgreSQL
-* MongoDB
-* Frontend Development
-* Backend Development
-* Full-Stack Web Development
-* Git & GitHub
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-2ea44f?style=for-the-badge)](https://bmorta.github.io/student-record-application/)
+[![Repository](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Bmorta/student-record-application)
 
 ---
 
-## 🎯 Development Journey
+## 📚 Currently Focused On
 
-I'm currently focused on **building projects rather than only studying concepts**.
-
-My goal is to strengthen my understanding of the complete development process—from designing the user interface and implementing frontend functionality to working with APIs, databases, and backend systems.
-
-I've recently completed a **Node.js refresher**, strengthening my understanding of server-side JavaScript, HTTP requests and responses, routing, route parameters, middleware, and backend fundamentals.
-
-I'm also continuing to build my knowledge of **PHP, Laravel, C#, .NET, SQL, PostgreSQL, and MongoDB** as I expand my backend and database development skills.
-
-I'm gradually building a portfolio of practical projects as I continue my journey toward becoming a **Full-Stack Web Developer**.
+🚀 **Full-Stack Web Development**  
+⚙️ **Node.js & REST APIs**  
+🐘 **PHP & Laravel**  
+🔷 **C# & .NET**  
+🗄️ **SQL, PostgreSQL & MongoDB**  
+🔧 **Git & GitHub**
 
 ---
 
-## 💼 Professional Background
+## 🎯 My Goal
 
-Before focusing more heavily on software development, I gained professional experience in:
+To become a **well-rounded Full-Stack Web Developer** by continuously building real-world projects, strengthening my technical foundation, and learning through practical development.
 
-* Administrative Operations
-* Real Estate Administration
-* Data Processing
-* Customer Service
-* Reporting & Documentation
-* Client and Payment Coordination
-
-This background has helped me develop strong organizational, analytical, communication, and problem-solving skills that I also bring into software development.
+> **Always learning. Always building. Always improving.**
 
 ---
 
 ## 📫 Let's Connect
 
-* 🌐 **Portfolio:** [Brigitte Morta](https://bmorta.github.io/brigitte-morta/)
-* 💼 **LinkedIn:** [Brigitte Morta](https://www.linkedin.com/in/brigittemorta/)
-* 📧 **Email:** [brigittemorta@gmail.com](mailto:brigittemorta@gmail.com)
+🌐 **[Portfolio](https://bmorta.github.io/brigitte-morta/)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/brigittemorta/)**  
+📧 **[Email](mailto:brigittemorta@gmail.com)**
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+⭐ *Thanks for visiting my profile!*
