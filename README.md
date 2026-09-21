@@ -20,20 +20,38 @@ I enjoy building **responsive, user-friendly web applications** while continuous
 * DOM Manipulation
 * JSON
 
+### Programming Languages
+
+* JavaScript
+* PHP
+* C#
+* SQL
+
+### Backend
+
+* Node.js
+* .NET / .NET Core
+* REST APIs
+* Backend Development
+
+### Frameworks
+
+* Laravel
+* Bootstrap
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+* SQL Databases
+* Database Fundamentals
+
 ### Development & Tools
 
 * Git & GitHub
 * VS Code
 * GitHub Pages
 * WordPress
-* REST APIs
-
-### Database & Backend
-
-* PostgreSQL
-* .NET / .NET Core
-* Backend Development
-* Database Fundamentals
 
 ### Design & Content
 
@@ -70,12 +88,17 @@ A web-based inventory management application focused on managing products, categ
 * Dashboard
 * Reports
 * Responsive Interface
+* User Management
+* Approval Workflow
+* Notifications
+* Local Data Storage
 
-**Built with:** HTML · CSS · JavaScript · Bootstrap · JSON
+**Built with:** HTML · CSS · JavaScript · Bootstrap · JSON · LocalStorage
 
 ---
 
 ### ✅ Task Manager Application
+
 **[View Project](https://bmorta.github.io/task-manager-application/)**
 
 A responsive task management application that allows users to create, manage, complete, and delete tasks.
@@ -91,12 +114,14 @@ A responsive task management application that allows users to create, manage, co
 * Responsive UI
 * Interactive JavaScript Functionality
 
-**Built with:** HTML · CSS · JavaScript
+**Built with:** HTML · CSS · JavaScript · JSON · LocalStorage
 
 ---
 
 ### 🎓 Student Record Application
+
 **[View Project](https://bmorta.github.io/student-record-application/)**
+
 A web-based student record application developed as part of my Full-Stack Web Development training.
 
 **Features include:**
@@ -107,7 +132,7 @@ A web-based student record application developed as part of my Full-Stack Web De
 * JavaScript-Based Functionality
 * Responsive Design
 
-**Built with:** HTML · CSS · JavaScript
+**Built with:** HTML · CSS · JavaScript . DOM 
 
 ---
 
@@ -119,10 +144,16 @@ I'm continuously developing my skills in:
 * DOM Manipulation
 * JSON
 * REST APIs
+* Node.js
+* PHP
+* Laravel
+* C#
+* .NET / .NET Core
+* SQL
+* PostgreSQL
+* MongoDB
 * Frontend Development
 * Backend Development
-* PostgreSQL
-* .NET / .NET Core
 * Full-Stack Web Development
 * Git & GitHub
 
@@ -134,7 +165,26 @@ I'm currently focused on **building projects rather than only studying concepts*
 
 My goal is to strengthen my understanding of the complete development process—from designing the user interface and implementing frontend functionality to working with APIs, databases, and backend systems.
 
+I've recently completed a **Node.js refresher**, strengthening my understanding of server-side JavaScript, HTTP requests and responses, routing, route parameters, middleware, and backend fundamentals.
+
+I'm also continuing to build my knowledge of **PHP, Laravel, C#, .NET, SQL, PostgreSQL, and MongoDB** as I expand my backend and database development skills.
+
 I'm gradually building a portfolio of practical projects as I continue my journey toward becoming a **Full-Stack Web Developer**.
+
+---
+
+## 💼 Professional Background
+
+Before focusing more heavily on software development, I gained professional experience in:
+
+* Administrative Operations
+* Real Estate Administration
+* Data Processing
+* Customer Service
+* Reporting & Documentation
+* Client and Payment Coordination
+
+This background has helped me develop strong organizational, analytical, communication, and problem-solving skills that I also bring into software development.
 
 ---
 
