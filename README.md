@@ -12,54 +12,25 @@ I enjoy building **responsive, user-friendly web applications** while continuous
 
 ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* Responsive Web Design
-* DOM Manipulation
-* JSON
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
-### Programming Languages
+### Backend & Programming
 
-* JavaScript
-* PHP
-* C#
-* SQL
-
-### Backend
-
-* Node.js
-* .NET / .NET Core
-* REST APIs
-* Backend Development
-
-### Frameworks
-
-* Laravel
-* Bootstrap
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,cs,dotnet)](https://skillicons.dev)
 
 ### Databases
 
-* PostgreSQL
-* MongoDB
-* SQL Databases
-* Database Fundamentals
+[![Database Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)
 
 ### Development & Tools
 
-* Git & GitHub
-* VS Code
-* GitHub Pages
-* WordPress
+[![Development Tools](https://skillicons.dev/icons?i=git,github,vscode,wordpress)](https://skillicons.dev)
 
 ### Design & Content
 
-* Canva
-* Adobe Photoshop
-* CapCut
-* Photo & Video Editing
-
+[![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+[![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)](https://www.capcut.com/)
 ---
 
 ## 🚀 Projects
@@ -132,7 +103,7 @@ A web-based student record application developed as part of my Full-Stack Web De
 * JavaScript-Based Functionality
 * Responsive Design
 
-**Built with:** HTML · CSS · JavaScript . DOM 
+**Built with:** HTML · CSS · JavaScript · DOM
 
 ---
 
