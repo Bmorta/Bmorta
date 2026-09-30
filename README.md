@@ -4,7 +4,7 @@
 
 I'm a **Full-Stack Web Developer in progress** focused on building practical, responsive, and user-friendly web applications.
 
-Currently strengthening my skills in **JavaScript, Node.js, PHP, Laravel, C#, .NET, SQL, and databases** through hands-on projects.
+Currently strengthening my skills in **HTML, CSS, JavaScript, React, Node.js, Express.js, REST APIs, MongoDB, Mongoose, PHP, Laravel, C#, .NET, SQL, and databases** through hands-on projects.
 
 ---
 
@@ -17,19 +17,22 @@ Currently strengthening my skills in **JavaScript, Node.js, PHP, Laravel, C#, .N
   <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3">
   <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript">
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap">
+  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React">
 </p>
 
 <p>
   <sub><b>HTML5</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
   <sub><b>CSS3</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
   <sub><b>JavaScript</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Bootstrap</b></sub>
+  <sub><b>Bootstrap</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>React</b></sub>
 </p>
 
 ### Backend & Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js">
+  <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js">
   <img src="https://skillicons.dev/icons?i=php" width="50" alt="PHP">
   <img src="https://skillicons.dev/icons?i=laravel" width="50" alt="Laravel">
   <img src="https://skillicons.dev/icons?i=cs" width="50" alt="C#">
@@ -37,25 +40,36 @@ Currently strengthening my skills in **JavaScript, Node.js, PHP, Laravel, C#, .N
 </p>
 
 <p>
-  <sub><b>Node.js</b></sub>&nbsp;&nbsp;&nbsp;
-  <sub><b>PHP</b></sub>&nbsp;&nbsp;&nbsp;
-  <sub><b>Laravel</b></sub>&nbsp;&nbsp;&nbsp;
-  <sub><b>C#</b></sub>&nbsp;&nbsp;&nbsp;
+  <sub><b>Node.js</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Express.js</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>PHP</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Laravel</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>C#</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
   <sub><b>.NET</b></sub>
 </p>
 
-### Databases
+### APIs & Database
 
 <p>
-
   <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB">
   <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL">
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL">
 </p>
 
 <p>
-
   <sub><b>MongoDB</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>MySQL</b></sub>
+  <sub><b>MySQL</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>PostgreSQL</b></sub>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" height="35" alt="Mongoose">
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" height="35" alt="REST API">
+</p>
+
+<p>
+  <sub><b>Mongoose</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>REST APIs</b></sub>
 </p>
 
 ### Development & Tools
@@ -99,6 +113,7 @@ A personal developer portfolio showcasing my skills, projects, and development j
 **Built with:** HTML · CSS · JavaScript · Bootstrap
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-2ea44f?style=for-the-badge)](https://bmorta.github.io/brigitte-morta/)
+
 [![Repository](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Bmorta/brigitte-morta)
 
 ---
@@ -110,7 +125,20 @@ A web-based inventory management application featuring product and category mana
 **Built with:** HTML · CSS · JavaScript · Bootstrap · JSON · LocalStorage
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-2ea44f?style=for-the-badge)](https://bmorta.github.io/inventory-management-system/)
+
 [![Repository](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Bmorta/inventory-management-system)
+
+---
+
+### 🛒 E-commerce API Interface
+
+A full-stack e-commerce product management application combining a **REST API** with a clean web interface for managing products.
+
+The application supports **product CRUD operations, product search, and category filtering**, using a Node.js and Express.js backend connected to MongoDB through Mongoose.
+
+**Built with:** Node.js · Express.js · MongoDB · Mongoose · REST API · JavaScript · HTML · CSS
+
+[![Repository](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Bmorta/ecommerce-api-Interface)
 
 ---
 
@@ -121,6 +149,7 @@ A responsive task management application with CRUD functionality, task completio
 **Built with:** HTML · CSS · JavaScript · JSON · LocalStorage
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-2ea44f?style=for-the-badge)](https://bmorta.github.io/task-manager-application/)
+
 [![Repository](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Bmorta/task-manager-application)
 
 ---
@@ -132,6 +161,7 @@ A student record application developed as part of my Full-Stack Web Development 
 **Built with:** HTML · CSS · JavaScript · DOM
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-2ea44f?style=for-the-badge)](https://bmorta.github.io/student-record-application/)
+
 [![Repository](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Bmorta/student-record-application)
 
 ---
@@ -139,10 +169,13 @@ A student record application developed as part of my Full-Stack Web Development 
 ## 📚 Currently Focused On
 
 🚀 **Full-Stack Web Development**  
-⚙️ **Node.js & REST APIs**  
+⚛️ **React & Frontend Development**  
+⚙️ **Node.js & Express.js**  
+🔌 **REST API Development**  
+🍃 **MongoDB & Mongoose**  
 🐘 **PHP & Laravel**  
 🔷 **C# & .NET**  
-🗄️ **SQL, PostgreSQL & MongoDB**  
+🗄️ **SQL, PostgreSQL & Databases**  
 🔧 **Git & GitHub**
 
 ---
@@ -157,9 +190,13 @@ To become a **well-rounded Full-Stack Web Developer** by continuously building r
 
 ## 📫 Let's Connect
 
-🌐 **[Portfolio](https://bmorta.github.io/brigitte-morta/)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/brigittemorta/)**  
+🌐 **[Portfolio](https://bmorta.github.io/brigitte-morta/)**
+
+💼 **[LinkedIn](https://www.linkedin.com/in/brigittemorta/)**
+
 📧 **[Email](mailto:brigittemorta@gmail.com)**
+
+🐙 **[GitHub](https://github.com/Bmorta)**
 
 ---
 
