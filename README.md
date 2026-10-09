@@ -55,8 +55,11 @@ I also bring a professional background in **technical support, administration, d
 ### APIs & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL">
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="50" height="50" alt="MongoDB">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50" height="50" alt="MySQL">
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="50" height="50" alt="SQL">
+  <img src="https://cdn.simpleicons.org/mongoose/880000" width="50" height="50" alt="Mongoose">
+  <img src="https://cdn.simpleicons.org/openapi/6BA539" width="50" height="50" alt="REST APIs">
 </p>
 
 <p>
@@ -70,10 +73,14 @@ I also bring a professional background in **technical support, administration, d
 ### Development & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git">
-  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code">
-  <img src="https://skillicons.dev/icons?i=wordpress" width="50" alt="WordPress">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="50" height="50" alt="Git">
+  <img src="https://cdn.simpleicons.org/github/181717" width="50" height="50" alt="GitHub">
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="50" height="50" alt="VS Code">
+  <img src="https://cdn.simpleicons.org/vite/646CFF" width="50" height="50" alt="Vite">
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="50" height="50" alt="Postman">
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="50" height="50" alt="WordPress">
+  <img src="https://cdn.simpleicons.org/githubpages/181717" width="50" height="50" alt="GitHub Pages">
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50" alt="Render">
 </p>
 
 <p>
